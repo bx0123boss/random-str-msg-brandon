@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-brandon",
+  "version": "1.0.0",
+  "description": "Random String Messages for platzi.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bx0123boss/random-str-msg-brandon.git"
+  },
+  "keywords": [],
+  "author": "Brandon Huerta <bran.7594@gmai.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bx0123boss/random-str-msg-brandon/issues"
+  },
+  "homepage": "https://github.com/bx0123boss/random-str-msg-brandon#readme",
+  "bin":{
+    "random-str-msg-brandon": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
